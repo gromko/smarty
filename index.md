@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## На допомогу вчителю інформатики
 
 You can use the [editor on GitHub](https://github.com/gromko/smarty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
